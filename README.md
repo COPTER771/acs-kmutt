@@ -1,16 +1,17 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm Pasit Phlaytho</h1>
-<h3 align="center">Computer Science Student | AI & IoT Developer | Finance Tech Enthusiast</h3>
+<h3 align="center">Computer Science Student | Startup Builder | AI & IoT Developer | Finance Tech Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me  
 - 🎓 CS Student at **KMUTT (King Mongkut’s University of Technology Thonburi)**  
+- 🚀 **Early-stage Startup Builder** — passionate about creating tech products that solve real problems  
 - 🌱 Learning **AI, IoT, Embedded Systems, and Finance Tech**  
-- 💡 Passionate about building **real-world solutions** with tech  
-- 💻 Love coding in **Python, C, JavaScript, and TypeScript**  
-- ⚡ Interested in **startups, personal finance applications, and automation tools**  
-- 🏐 Volleyball athlete & fitness lover  
+- 💻 Love coding in **Python, C, JavaScript, TypeScript**, and exploring new frameworks  
+- 💡 Interested in automation, personal finance apps, and scalable system design  
+- 🏸 **Badminton** & 🏐 **Volleyball Athlete** — training for performance & discipline  
+- 📈 Believe in building things fast, testing fast, and learning fast  
 
 ---
 
@@ -50,19 +51,29 @@
 
 ---
 
-## 📌 Highlight Projects
+## 🏆 Highlight Projects
 
 ### 🔹 **Exnode — Personal Finance & Debt Management App**
 A smart platform for tracking loans, analyzing spending, and forecasting financial health using **RFM segmentation** & automation.
 
 ### 🔹 **HeartMade — AI + IoT Device for Disabilities**
-AI chatbot + IoT system designed to help persons with disabilities sell products easily through voice & automation.
+IoT device + AI chatbot helping persons with disabilities sell products through simple voice interactions.
 
 ### 🔹 **Smart Attendance System**
-QR-based student check-in with Google Sheets integration, time adjustments, and data dashboard.
+QR-based student check-in with Google Sheets integration and smart time adjustment.
 
-### 🔹 **MathUnity — Unity-Based Math Learning Game**
-Interactive game for high-school math learning using Unity + C#.
+### 🔹 **MathUnity — Unity Math Learning Game**
+Interactive Unity-based education game for high-school students.
+
+---
+
+## 🎯 My Startup Focus  
+> **"Build fast. Solve real problems. Scale with purpose."**  
+I'm currently growing my skills & product ideas around:  
+- AI + IoT solutions  
+- Financial automation  
+- Education technology  
+- Social impact startups  
 
 ---
 
@@ -93,10 +104,11 @@ Interactive game for high-school math learning using Unity + C#.
 
 ## 🇹🇭 Short Bio (Thai)
 > 👋 สวัสดีครับ ผมพสิษฐ์ พลายโถ  
-> นักศึกษาวิทยาการคอมพิวเตอร์ มจธ.  
-> สนใจ AI, IoT, การเขียนโปรแกรม และเทคโนโลยีการเงิน  
-> ชอบสร้างโปรเจกต์จริง ลงมือทำ และพัฒนาตัวเองทุกวัน 🚀
+> เป็นทั้งนักศึกษาวิทยาการคอมพิวเตอร์ + ผู้เริ่มสร้างสตาร์ทอัพ  
+> สนใจ AI, IoT, การเงิน และการแก้ปัญหาจริงผ่านเทคโนโลยี  
+> กีฬาโปรด: 🏸 แบดมินตัน & 🏐 วอลเลย์บอล  
+> คติประจำตัว: “ลงมือทำก่อน เรียนรู้ทีหลัง และพัฒนาให้ดีขึ้นเสมอ”  
 
 ---
 
-### ⭐ Thank you for visiting my profile!  
+### ⭐ Thank you for visiting my profile!
